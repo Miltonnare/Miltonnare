@@ -54,4 +54,4 @@ I am a software engineer focused on building verified, defensible systems that s
 * **Developer Portfolio:** [miltonnaresportfolio.netlify.app](https://miltonnaresportfolio.netlify.app/)
 * **LinkedIn:** [linkedin.com/in/milton-odhiambo-14a662261](https://www.linkedin.com/in/milton-odhiambo-14a662261)
 * **Email:** [miltonnareblessed@gmail.com](mailto:miltonnareblessed@gmail.com)
-* **X (Twitter):** [@Mr2Logic](https://x.com/Mr2Logic)
+* **X (Twitter):** [@codesBlessed](https://x.com/codesBlessed)
